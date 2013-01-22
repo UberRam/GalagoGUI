@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Comarch
+Build-Jdk: 1.7.0_03
+Main-Class: org.galagosearch.core.tools.App
+Created-By: Maven Integration for Eclipse
+
